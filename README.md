@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, I'm Amulya 👋
 
-<!--
-**Amulyapriyaeamani/Amulyapriyaeamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:  
+  `E-commerce Product Recommender` using ML & Streamlit, and a `Full-Stack Job Search Platform` with the MERN stack.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning:  
+  Python DSA, Machine Learning fundamentals, GPT-based app development, and advanced web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on:  
+  Open-source projects, ML tools, and full-stack web apps that solve real-world problems.
+
+- 🤔 I’m looking for help with:  
+  Model deployment (ML to production), optimizing web app performance, and prompt engineering techniques.
+
+- 💬 Ask me about:  
+  Python, Machine Learning basics, Streamlit apps, React.js, or building your first project.
+
+- 📫 How to reach me:  
+  [LinkedIn](https://linkedin.com/in/YOURUSERNAME) • [GitHub](https://github.com/YOURUSERNAME) • Email: yourname@email.com
+
+- 😄 Pronouns:  
+  she/her
+
+- ⚡ Fun fact:  
+  I love simplifying complex tech concepts into easy-to-understand visuals and tools!
