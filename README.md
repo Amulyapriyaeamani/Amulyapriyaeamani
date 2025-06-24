@@ -16,7 +16,7 @@
   Python, Machine Learning basics, Streamlit apps, React.js, or building your first project.
 
 - 📫 How to reach me:  
-  [LinkedIn](https://linkedin.com/in/YOURUSERNAME) • [GitHub](https://github.com/YOURUSERNAME) • Email: yourname@email.com
+  [LinkedIn](www.linkedin.com/in/amulyapriyaeamani) • [GitHub](https://github.com/YOURUSERNAME) • Email: yourname@email.com
 
 - 😄 Pronouns:  
   she/her
