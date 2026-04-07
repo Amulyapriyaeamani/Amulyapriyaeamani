@@ -1,25 +1,62 @@
-### Hi there, I'm Amulya 👋
+# Hi, I'm Amulya
 
-- 🔭 I’m currently working on:  
-  `E-commerce Product Recommender` using ML & Streamlit, and a `Full-Stack Job Search Platform` with the MERN stack.
+Data Analyst | BI Analyst focused on business metrics, dashboarding, and decision support.
 
-- 🌱 I’m currently learning:  
-  Python DSA, Machine Learning fundamentals, GPT-based app development, and advanced web development.
+---
 
-- 👯 I’m looking to collaborate on:  
-  Open-source projects, ML tools, and full-stack web apps that solve real-world problems.
+## 🔍 What I Do
+I analyze data to uncover business insights, identify performance gaps, and support decision-making. My work focuses on structured analysis, KPI design, and building dashboards that communicate clearly to stakeholders.
 
-- 🤔 I’m looking for help with:  
-  Model deployment (ML to production), optimizing web app performance, and prompt engineering techniques.
+---
 
-- 💬 Ask me about:  
-  Python, Machine Learning basics, Streamlit apps, React.js, or building your first project.
+## 🧠 Core Skills
+SQL • Microsoft Excel • Power BI • Python (Pandas)
 
-- 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/amulyapriyaeamani)• [GitHub](https://github.com/YOURUSERNAME) • Email: yourname@email.com
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- KPI Design & Business Metrics  
+- Dashboard Development & Data Visualization  
+- Root Cause Analysis  
 
-- 😄 Pronouns:  
-  she/her
+---
 
-- ⚡ Fun fact:  
-  I love simplifying complex tech concepts into easy-to-understand visuals and tools!
+## ⚙️ Tools & Technologies
+SQL (CTEs, Window Functions)  
+Excel (Power Query, Modeling)  
+Power BI (DAX, Data Modeling)  
+Python (Pandas)  
+Git & GitHub  
+
+---
+
+## 🤖 AI in Analytics
+I use AI as an augmentation layer in analytics workflows to improve efficiency and clarity:
+
+- LLM-assisted SQL generation & validation  
+- Automated reporting and executive summaries  
+- Streamlining repetitive analysis tasks  
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Payment Performance & Fraud Risk Analysis
+- Analyzed 1M+ transactions to identify ₹810M revenue leakage  
+- Identified failure-driven revenue loss and recovery gaps  
+- Segmented users and merchants for risk-based insights  
+
+### 🔹 E-commerce Operations & Retention Analysis
+- Analyzed 100K+ transactions to identify SLA and retention issues  
+- Built dashboards to track performance and business metrics  
+- Proposed improvements to reduce SLA breaches and improve retention  
+
+---
+
+## 🎯 Goal
+To work in data-driven teams where analytics supports real business decisions and operational improvements.
+
+---
+
+## 📫 Connect With Me
+LinkedIn: (add your link)  
+Email: (your email)  
