@@ -2,12 +2,10 @@
 
 Data Analyst | BI Analyst focused on business metrics, dashboarding, and decision support.
 
----
 
 ## 🔍 What I Do
 I analyze data to uncover business insights, identify performance gaps, and support decision-making. My work focuses on structured analysis, KPI design, and building dashboards that communicate clearly to stakeholders.
 
----
 
 ## 🧠 Core Skills
 SQL • Microsoft Excel • Power BI • Python (Pandas)
@@ -18,7 +16,6 @@ SQL • Microsoft Excel • Power BI • Python (Pandas)
 - Dashboard Development & Data Visualization  
 - Root Cause Analysis  
 
----
 
 ## ⚙️ Tools & Technologies
 SQL (CTEs, Window Functions)  
@@ -27,7 +24,6 @@ Power BI (DAX, Data Modeling)
 Python (Pandas)  
 Git & GitHub  
 
----
 
 ## 🤖 AI in Analytics
 I use AI as an augmentation layer in analytics workflows to improve efficiency and clarity:
@@ -36,7 +32,6 @@ I use AI as an augmentation layer in analytics workflows to improve efficiency a
 - Automated reporting and executive summaries  
 - Streamlining repetitive analysis tasks  
 
----
 
 ## 📊 Featured Projects
 
@@ -50,13 +45,11 @@ I use AI as an augmentation layer in analytics workflows to improve efficiency a
 - Built dashboards to track performance and business metrics  
 - Proposed improvements to reduce SLA breaches and improve retention  
 
----
 
 ## 🎯 Goal
 To work in data-driven teams where analytics supports real business decisions and operational improvements.
 
----
 
 ## 📫 Connect With Me
-LinkedIn: (add your link)  
-Email: (your email)  
+LinkedIn: https://www.linkedin.com/in/amulyapriyaeamani
+Email:  amulyapriyaeamani441@gmail.com
