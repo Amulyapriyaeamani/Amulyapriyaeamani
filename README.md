@@ -68,8 +68,8 @@ I use AI tools to enhance analytics workflows, not replace them:
 
 ## 📫 Connect With Me
 
-- LinkedIn: (add link)  
-- Email: (add email)  
+- LinkedIn: https://www.linkedin.com/in/amulyapriyaeamani  
+- Email: amulyapriyaeamanii441@gmail.com 
 
 
 ## ⚡ A Bit About Me
